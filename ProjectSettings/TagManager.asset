@@ -4,21 +4,8 @@
 TagManager:
   serializedVersion: 3
   tags:
-  - Wall
-  - Metal
-  - Blood
-  - Dirt
-  - Concrete
-  - ExplosiveBarrel
-  - Target
-  - GasTank
-  - Metal (Static)
-  - Wood (Static)
-  - Dirt (Static)
-  - Wood
-  - FxTemporaire
   - Other
-  - Animal
+  - graunded
   layers:
   - Default
   - TransparentFX
@@ -28,16 +15,16 @@ TagManager:
   - UI
   - 
   - 
-  - Wall
-  - First Person View
-  - Character
-  - Post Processing
-  - Post Processing Weapon
-  - Post Processing Scope
-  - Invisible Wall
-  - Projectile
   - 
   - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - Graunded
+  - Wheel
+  - Car
   - 
   - 
   - 
